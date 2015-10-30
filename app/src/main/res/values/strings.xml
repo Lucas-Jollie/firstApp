@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello world</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name_input">yo\' name</string>
+    <string name="get_transformed_name">Git ma\'dawg name</string>
+    <string name="user_age">yo\' age</string>
+    <string name="askNameGStyle">Wa\'s yo\' name?</string>
+</resources>
